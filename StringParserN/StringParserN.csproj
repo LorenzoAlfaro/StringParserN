@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0;net45</TargetFrameworks>
+    <Authors>Lorenzo G Alfaro</Authors>
+    <Description>Simple string parsing</Description>
+    <Copyright>Copyright (c) 2021 Lorenzo G Alfaro</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LorenzoAlfaro/StringParserN.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>StringParsing char</PackageTags>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
