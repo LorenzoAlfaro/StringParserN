@@ -11,6 +11,7 @@
     <RepositoryType>Git</RepositoryType>
     <PackageTags>StringParsing char</PackageTags>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
